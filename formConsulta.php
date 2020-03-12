@@ -33,10 +33,11 @@
 	</SELECT><BR><BR>
 	
 	<INPUT TYPE = "BUTTON" NAME = "submitBuscar" ID = "submitBuscar" VALUE = "BUSCAR"><br><br> <A HREF= "IndexMenu.php" > Voltar </a>
+
+	<div id="resultado"></div>
 	</p></FORM>
 </DIV>
 <DIV CLASS="BAIXO">
-	<div id="resultado"></div>
 </DIV>
 </BODY>
 </HTML>

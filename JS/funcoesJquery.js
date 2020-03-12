@@ -172,7 +172,6 @@ function validaTudo(email,txtDataadmi,txtDataniver){
 	}
 	
 	if(validado){
-		alert('Envia Form');
 		return true;
 	}else{
 		alert("O(s) campo(s): "+ retorno+"\nforam preenchidos de maneira incorreta");
