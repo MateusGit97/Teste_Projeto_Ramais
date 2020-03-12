@@ -1,0 +1,44 @@
+BODY{
+	MARGIN:	0PX;
+	background-color: pink;
+	background-image: url("../IMG/trem-a-vapor-wallpaper.jpg");
+	background-size: 1366px 768px;
+}
+p{
+	text-align: center;
+}
+
+.TOPO {
+	BACKGROUND:black url("../IMG/logo-refer.png");
+	HEIGHT: 80PX;
+	background-size: 200px 50px;
+	background-repeat: no-repeat;
+	background-position: 2% 50%;
+}
+.DIREITA {
+	opacity: 0.5;
+	float:left;
+	HEIGHT: 500PX;
+	WIDTH: 150PX;
+	BACKGROUND:GREY;
+}
+.ESQUERDA {
+    opacity: 0.5;
+	FLOAT:RIGHT;
+	HEIGHT: 500PX;
+	WIDTH: 150PX;
+	BACKGROUND:GREY;
+}
+.CENTRO {
+	BACKGROUND:white;
+	HEIGHT: 500PX;
+	FLOAT:LEFT;
+	WIDTH:1049PX;
+	opacity: 0.8;
+}
+.BAIXO {
+	BACKGROUND:#0096FF;
+    HEIGHT: 80PX;
+	FLOAT:LEFT;
+	WIDTH: 1350PX;
+}
